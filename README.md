@@ -1,12 +1,101 @@
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amritseth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amritseth&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amritseth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Amrit Seth</h1>
+<h3 align="center">Cloud & DevOps Engineer | Infrastructure as Code | Automation Enthusiast</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amritseth&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Second-year **B.Tech CSE** student & **IIT Madras B.Sc Data Science** student  
+- ☁️ Passionate about **Cloud Computing, DevOps, and SRE practices**
+- 🛠️ Hands-on experience with **CI/CD, GitOps, Kubernetes, and Serverless architectures**
+- 🔁 Strong believer in **automation, reproducibility, and scalable infrastructure**
+- 👥 **AWS Cloud Club Coordinator** — organizing workshops & hands-on sessions
+- 🎯 Currently seeking **Cloud / DevOps / SRE Internship opportunities**
+
+---
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+### ⚙️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+
+### 🔄 CI/CD & Monitoring
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+### 🐧 Systems & Languages
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔹 GitOps CI/CD Pipeline
+- GitHub Actions → Docker → Kubernetes
+- GitOps deployments using **ArgoCD**
+- Helm-based environment templating
+- Monitoring with Prometheus & Grafana
+
+### 🔹 Event-Driven Serverless Pipeline
+- AWS Lambda, SQS, DynamoDB
+- Infrastructure provisioned using **Terraform**
+- Fault tolerance with retries & DLQs
+
+### 🔹 Serverless AI Text Summarizer
+- AWS Lambda + API Gateway
+- Amazon Bedrock integration
+- Fully defined using **Infrastructure as Code**
+
+➡️ *Check pinned repositories below 👇*
+
+---
+
+## 🧪 Hands-on Practice
+
+- Kubernetes deployments (local & cloud-managed)
+- Terraform modules, state management, environment separation
+- Linux system administration & shell scripting
+- Observability & monitoring fundamentals
+
+---
+
+## 📜 Certifications
+
+- **Google Cloud Skill Badges (Coursera)**
+  - Terraform Infrastructure
+  - Cloud Storage
+  - IAM & Data Protection
+- **Generative AI**
+  - Vertex AI Gemini API
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritseth&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritseth&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/amrit-seth-702520315](https://linkedin.com/in/amrit-seth-702520315)
+- 📧 Email: **amritseth005@gmail.com**
+
+---
+
+⭐ *I enjoy building reliable systems, automating workflows, and learning how large-scale infrastructure works under the hood.*
