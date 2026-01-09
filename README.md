@@ -29,7 +29,7 @@
 <!-- About Me Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> About Me
 
-```yaml
+
 name: Amrit Seth
 located_in: Varanasi, Uttar Pradesh, India
 current_role: AWS Cloud Club Coordinator @ KIET
