@@ -119,7 +119,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/amritseth/serveless-url-shortener" target="_blank">
+  <a href="https://github.com/amritseth/serverless-url-shortener" target="_blank">
     <img src="https://img.shields.io/badge/Project-Serverless_URL_Shortener-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="URL Shortener"/>
   </a>
   <a href="https://github.com/amritseth/flask-docker-cicd" target="_blank">
