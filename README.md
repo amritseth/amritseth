@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Amrit%20Seth&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Enthusiast%20|%20IIT%20Madras&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
 </div><!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Amrit%20Seth&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Enthusiast%20|%20Automation%20Lover&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
-</div>
+
 
 <!-- Typing SVG -->
 <div align="center">
