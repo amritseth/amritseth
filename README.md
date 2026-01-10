@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <!--<a href="https://git.io/typing-svg">-->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Infrastructure+%F0%9F%9A%80;Automating+Everything+%E2%9A%99%EF%B8%8F;Cloud+Native+Enthusiast+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Architect+%F0%9F%94%84;Infrastructure+as+Code+Advocate+%F0%9F%93%9D" alt="Typing SVG" />
   </a>
 </div>
@@ -13,7 +13,7 @@
 <!-- Profile Views & Social Badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=amritseth&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://linkedin.com/in/amrit-seth-702520315">
+  <a href="https://linkedin.com/in/amrit-seth-702520315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:amritseth005@gmail.com">
@@ -99,16 +99,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/amritseth">
+  <a href="https://github.com/amritseth" target="_blank">
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amritseth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
-  <a href="https://github.com/amritseth">
+  <a href="https://github.com/amritseth" target="_blank">
     <img height="180" src="https://streak-stats.demolab.com?user=amritseth&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/amritseth">
+  <a href="https://github.com/amritseth" target="_blank">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amritseth&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
@@ -125,11 +125,11 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/amritseth/rserveless-url-shortener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritseth&repo=serverless-url-shortener&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="URL Shortener"/>
+  <a href="https://github.com/amritseth/serveless-url-shortener" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Serverless_URL_Shortener-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="URL Shortener"/>
   </a>
-  <a href="https://github.com/amritseth/flask-docker-cicd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritseth&repo=flask-docker-cicd&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Flask Docker CICD"/>
+  <a href="https://github.com/amritseth/flask-docker-cicd" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Flask_Docker_CICD-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Flask Docker CICD"/>
   </a>
 </div>
 
@@ -170,13 +170,13 @@
 <div align="center">
   <p>I'm always interested in collaborating on DevOps projects!</p>
   
-  <a href="https://linkedin.com/in/amrit-seth-702520315">
+  <a href="https://linkedin.com/in/amrit-seth-702520315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:amritseth005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/amrit_seth">
+  <a href="https://twitter.com/vibexamrit" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 </div>
@@ -196,15 +196,10 @@
 <div align="center">
   <h3>⭐ If you find my projects helpful, consider giving them a star!</h3>
   
-  <a href="https://www.buymeacoffee.com/amritseth">
+  <a href="https://www.buymeacoffee.com/amritseth" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
-  <a href="https://ko-fi.com/amritseth">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-  </a>
-  <a href="https://paypal.me/amritseth">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
+  
 </div>
 
 <br/>
