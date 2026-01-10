@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 🎓 **Education:**
-- B.Tech in CSE @ Dr. APJ Abdul Kalam Technical University (2024-2028)
+- B.Tech in CSE @ KIET Group of Institutions (2024-2028)
 - B.S in Data Science @ IIT Madras (2024-2028)
 
 📍 **Location:** Varanasi, Uttar Pradesh, India
@@ -99,14 +99,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritseth&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritseth&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" height="180"/>
+  <a href="https://github.com/amritseth">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amritseth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/amritseth">
+    <img height="180" src="https://streak-stats.demolab.com?user=amritseth&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritseth&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <a href="https://github.com/amritseth">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amritseth&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
-
 <br/>
 
 ## 📈 Contribution Graph
@@ -120,7 +125,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/amritseth/serverless-url-shortener">
+  <a href="https://github.com/amritseth/rserveless-url-shortener">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritseth&repo=serverless-url-shortener&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="URL Shortener"/>
   </a>
   <a href="https://github.com/amritseth/flask-docker-cicd">
