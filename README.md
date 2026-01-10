@@ -99,20 +99,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/amritseth" target="_blank">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amritseth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/amritseth" target="_blank">
-    <img height="180" src="https://streak-stats.demolab.com?user=amritseth&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritseth&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/amritseth" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amritseth&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritseth&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amritseth&theme=tokyonight&utcOffset=5.5" height="180"/>
 </div>
-<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritseth&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritseth&theme=tokyonight" height="180"/>
+</div>
 
 ## 📈 Contribution Graph
 
