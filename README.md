@@ -23,8 +23,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> About Me
 
-```yaml
-name: Amrit Seth
+
+Name: Amrit Seth
 role: AWS Cloud Club Coordinator @ KIET
 education:
   - B.Tech CSE (2024-2028)
@@ -34,3 +34,14 @@ tech_stack:
   - DevOps: Docker, Kubernetes, Terraform
   - CI/CD: GitHub Actions, ArgoCD
 fun_fact: "I just automated my deployment pipeline!"
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack<div align="center">Cloud & DevOpsDevelopment<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-FF9900%3Fstyle%3Dfor-the-badge%26logo%3Damazonaws%26logoColor%3Dwhite"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Stats<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amrit-seth&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=amrit-seth&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" height="180"/></div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> Featured Projects<div align="center"><a href="https://github.com/amrit-seth/flask-docker-cicd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amrit-seth&repo=flask-docker-cicd&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Flask Docker CICD"/></a><a href="https://github.com/amrit-seth"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Damrit-seth%26repo%3Damrit-seth%26theme%3Dgithub_dark%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26icon_color%3D58a6ff%26text_color%3Dc9d1d9" alt="My Profile"/></a></div><div align="center"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:0d1117,50:161b22,100:0d1117%26height%3D100%26section%3Dfooter" width="100%"/></div>
+### **Step 3: Save Changes**
+
+1.  Scroll to the bottom of the page.
+2.  Click the green button **Commit changes**.
+
+### **Why this version is better for now:**
+
+  * **No "Broken" Images:** I removed the Snake and WakaTime sections. These require complex setup. The sections above (Stats, Streak, Typing) use public servers, so they work instantly for everyone.
+  * **Simple Tech Stack:** I replaced the complex list with a simple table using Shields.io badges, which are extremely reliable.
+  * **Your Project is Linked:** The "Featured Projects" section now links directly to your `flask-docker-cicd` project.
