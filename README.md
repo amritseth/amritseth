@@ -109,6 +109,14 @@
 
 <br/>
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritseth&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff" alt="Contribution Graph" width="100%"/>
+</div>
+
+<br/>
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -132,7 +140,7 @@
 
 <br/>
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 | Status | Goal |
 |:------:|------|
@@ -162,6 +170,35 @@
   </a>
   <a href="mailto:amritseth005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/amrit_seth">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
+
+<br/>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automate%20the%20boring%20stuff%2C%20innovate%20the%20interesting%20stuff.&author=DevOps%20Philosophy" alt="Quote"/>
+</div>
+
+<br/>
+
+## ☕ Support Me
+
+<div align="center">
+  <h3>⭐ If you find my projects helpful, consider giving them a star!</h3>
+  
+  <a href="https://www.buymeacoffee.com/amritseth">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://ko-fi.com/amritseth">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+  <a href="https://paypal.me/amritseth">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
 </div>
 
