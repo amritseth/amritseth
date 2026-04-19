@@ -184,7 +184,6 @@
 |---------|-----------|-------------|
 | 🔗 **[Serverless URL Shortener](https://github.com/amritseth/serverless-url-shortener)** | `AWS Lambda` `DynamoDB` `API Gateway` | Scalable, cost-effective URL shortener on AWS serverless stack |
 | 🐳 **[Flask Docker CI/CD](https://github.com/amritseth/flask-docker-cicd)** | `Flask` `Docker` `GitHub Actions` | Containerized Python app with automated CI/CD pipeline |
-| ☁️ **AWS Cloud Club @ KIET** | `AWS` `Community` `Mentoring` | Leading cloud education & hands-on workshops |
 
 <br/>
 
