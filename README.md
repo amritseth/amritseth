@@ -49,7 +49,7 @@
 - 🎓 **B.Tech CSE** @ KIET Group of Institutions *(2024-2028)*
 - 📊 **B.S. Data Science** @ IIT Madras *(2024-2028)*
 - 📍 Based in **Varanasi, Uttar Pradesh, India** 🇮🇳
-- 🚀 **AWS Cloud Club Coordinator** @ KIET
+- 🚀 **AWS Cloud Club Administration Lead** @ KIET
 - 🎯 **Mission:** Automate everything, scale infinitely, innovate endlessly
 - 🌱 **Currently Learning:** Kubernetes • GitOps with ArgoCD • AWS Architecture • Generative AI & LLMOps
 - 💬 **Ask me about:** Cloud ☁️ • DevOps ⚙️ • IaC 🏗️ • CI/CD 🔄 • AI/ML Ops 🤖
